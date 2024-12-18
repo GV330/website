@@ -1,0 +1,29 @@
+---
+title: "GV330: Data Science Applications to Politics Research"
+about: 
+  template: trestles
+  image: /assets/lse_logo.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/GV330
+css: styles.css
+---
+
+<br><br>
+
+Welcome to the course website for GV330 Data Science Applications to Politics Research. This website will be the primary location for all course materials, including the syllabus, lecture slides, and assignments.
+
+
+**Office Hours:** Please sign up via the Student Hub
+
+**Undergraduate Administration:** Office CBG 3.20. Opening Hours: 10:00-12:30 and 13:30-16:00. Email: [gov.ug@lse.ac.uk](mailto:gov.ug.lse.ac.uk)
+
+
+**Seminars:** Seminars will take place as shown on the timetable. 
+
+
+
+**Course lecturers:** [Dan de Kadt](mailto:d.n.de-kadt@lse.ac.uk) & [Zach Dickson](mailto:z.dickson@lse.ac.uk)
+
+

@@ -1,0 +1,8 @@
+---
+title: Seminars
+---
+
+
+## Week 1: Introduction to Data Science
+
+## Week 2: Data Management
