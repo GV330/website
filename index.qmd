@@ -24,6 +24,6 @@ Welcome to the course website for GV330: Data Science Applications to Politics R
 
 
 
-**Course Lecturers:** [Dan de Kadt](mailto:d.n.de-kadt@lse.ac.uk) & [Zach Dickson](mailto:z.dickson@lse.ac.uk)
+**Course Lecturers:** [Zach Dickson](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Zach-Dickson/Zach-Dickson) & [Dan de Kadt](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Daniel-De-Kadt/Daniel-De-Kadt)
 
 
