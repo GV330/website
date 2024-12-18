@@ -10,6 +10,7 @@ website:
         text: Home
       - readings.qmd
       - seminars.qmd
+      - assignments.qmd
 
 format:
   html:
