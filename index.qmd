@@ -2,7 +2,7 @@
 title: "GV330: Data Science Applications to Politics Research"
 about: 
   template: trestles
-  image: /assets/lse_logo.png
+  image: assets/lse_logo.png
   links:
     - icon: github
       text: Github
