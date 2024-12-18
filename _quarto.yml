@@ -14,9 +14,12 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: spacelab
+      dark: superhero
     css: styles.css
     toc: true
+    font-family: sans-serif
 
 
 

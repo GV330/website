@@ -12,7 +12,7 @@ css: styles.css
 
 <br><br>
 
-Welcome to the course website for GV330 Data Science Applications to Politics Research. This website will be the primary location for all course materials, including the syllabus, lecture slides, and assignments.
+Welcome to the course website for GV330: Data Science Applications to Politics Research. This website will be the primary location for all course materials, including the syllabus, lecture slides, and assignments.
 
 
 **Office Hours:** Please sign up via the Student Hub
@@ -24,6 +24,6 @@ Welcome to the course website for GV330 Data Science Applications to Politics Re
 
 
 
-**Course lecturers:** [Dan de Kadt](mailto:d.n.de-kadt@lse.ac.uk) & [Zach Dickson](mailto:z.dickson@lse.ac.uk)
+**Course Lecturers:** [Dan de Kadt](mailto:d.n.de-kadt@lse.ac.uk) & [Zach Dickson](mailto:z.dickson@lse.ac.uk)
 
 
