@@ -1,9 +1,9 @@
 ---
-title: Readings
+title: Topic 1
 ---
 
 
-## Week 1: Introduction
+## Week 2: Causality, Credibility, and "Big Data" I
 
-## Week 2: 
+## Week 3: Causality, Credibility, and "Big Data" II
 
