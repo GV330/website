@@ -15,8 +15,6 @@ website:
       - topic4.qmd
       - topic5.qmd
 
-
-
 format:
   html:
     theme: 
