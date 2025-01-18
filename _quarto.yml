@@ -8,9 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - readings.qmd
-      - seminars.qmd
-      - assignments.qmd
+      - introduction.qmd
+      - topic1.qmd
+      - topic2.qmd
+      - topic3.qmd
+      - topic4.qmd
+      - topic5.qmd
+
+
 
 format:
   html:
