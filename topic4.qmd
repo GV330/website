@@ -1,0 +1,8 @@
+---
+title: Topic 4
+---
+
+
+## Week 9: Text Data
+
+## Week 10: Image, Video, and Audio Data
