@@ -12,18 +12,18 @@ css: styles.css
 
 <br><br>
 
-Welcome to the course website for GV330: Data Science Applications to Politics Research. This website will be the primary location for all course materials, including the syllabus, lecture slides, and assignments.
+Welcome to the course website for GV330: Data Science Applications to Politics Research for WT 2025. This website and the associated github repo will be the primary location for all course materials.
 
+The Leganto reading list can be found [here](https://readings.lse.ac.uk/leganto/public/44LSE_INST/lists/11431308290002021?auth=SAML).
 
-**Office Hours:** Please sign up via the Student Hub
+The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=9820). Please consult Moodle for lecture recordings, and to submit any assignments (formative and summative). 
+
+**Office Hours:** Please sign up via studenthub.
 
 **Undergraduate Administration:** Office CBG 3.20. Opening Hours: 10:00-12:30 and 13:30-16:00. Email: [gov.ug@lse.ac.uk](mailto:gov.ug.lse.ac.uk)
 
+**Lectures and Seminars:** Lectures and seminars will take place as shown on the timetable. Dr de Kadt will teach both the lecture and seminars in weeks 1, 3, 5, 8, and 10. Dr Dickson will do the same for weeks 2, 4, 7, 9, and 11.
 
-**Seminars:** Seminars will take place as shown on the timetable. 
-
-
-
-**Course Lecturers:** [Zach Dickson](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Zach-Dickson/Zach-Dickson) & [Dan de Kadt](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Daniel-De-Kadt/Daniel-De-Kadt)
+**Course Convenors:** [Zach Dickson](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Zach-Dickson/Zach-Dickson) & [Dan de Kadt](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Daniel-De-Kadt/Daniel-De-Kadt)
 
 
