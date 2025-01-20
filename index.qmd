@@ -26,6 +26,4 @@ The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=
 
 **Course Convenors (AY 24/25):** [Zach Dickson](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Zach-Dickson/Zach-Dickson) & [Dan de Kadt](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Daniel-De-Kadt/Daniel-De-Kadt)
 
-This class was originally designed and developed by [Melissa Sands](https://www.lse.ac.uk/government/people/academic-staff/melissa-sands), on sabbatical AY 24/25.
-
-
+This class was originally designed and developed by [Melissa Sands](https://www.lse.ac.uk/government/people/academic-staff/melissa-sands) (on sabbatical AY 24/25).
