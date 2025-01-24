@@ -9,6 +9,8 @@ title: Introduction
 
 ### [Week 1 Seminar slides](https://github.com/GV330/website/blob/main/assets/seminars/GV330_Seminar1_Introduction_Handout.pdf)
 
+### [Pre-term survey](https://forms.gle/FLDPQG82vtbQnbte8)
+
 ### [Presentation signups](https://docs.google.com/spreadsheets/d/1pulSlqC5Y8yq4lFyv9-6gb1G-9z-NCerIkSsXOemGlQ/edit?usp=sharing)
 
-### [Pre-term survey](https://forms.gle/FLDPQG82vtbQnbte8)
+### [Presentation guidance](https://github.com/GV330/website/blob/main/assets/other/Presentation_Guidelines.pdf)
