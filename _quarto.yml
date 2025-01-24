@@ -15,6 +15,9 @@ website:
       - topic4.qmd
       - topic5.qmd
 
+execute:
+  freeze: auto
+
 format:
   html:
     theme: 
