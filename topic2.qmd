@@ -5,5 +5,9 @@ title: Topic 2
 
 ## Week 4: Administrative and Open Data
 
+- [Lecture Slides](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture4_Administrative_and_Open_DataI.pdf)
+- [Seminar Repo](https://github.com/GV330/seminar4_adminData)
+
+
 ## Week 5: Geographic Data
 
