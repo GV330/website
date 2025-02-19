@@ -11,3 +11,5 @@ title: Topic 2
 
 ## Week 5: Geographic Data
 
+- [Lecture Slides](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture5_Geography_and_Geographic_Data.pdf)
+- [Seminar Repo](https://github.com/GV330/seminar5_spatialData)
