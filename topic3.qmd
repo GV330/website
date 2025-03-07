@@ -5,5 +5,8 @@ title: Topic 3
 
 ## Week 7: Social Media
 
+- [Lecture Slides (handout): Social Media](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture6_Social_Media.pdf)
+- [Seminar Repo](https://github.com/GV330/seminar6_SocialMedia)
+
 ## Week 8: Media and Internet
 
