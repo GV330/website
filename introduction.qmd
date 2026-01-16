@@ -7,6 +7,7 @@ title: Introduction
 
 - [Week 1 Lecture slides](https://github.com/GV330/course_materials/blob/main/lectures/GV330_Lecture1_Introduction_Handout.pdf)
 - [Week 1 Seminar slides](https://github.com/GV330/course_materials/blob/main/seminars/seminar1/GV330_Seminar1_Slides.pdf)
-- [Pre-term survey](https://forms.gle/FLDPQG82vtbQnbte8)
-- [Presentation signups](https://docs.google.com/spreadsheets/d/1pulSlqC5Y8yq4lFyv9-6gb1G-9z-NCerIkSsXOemGlQ/edit?usp=sharing)
+- [Week 1 Seminar Git/Github Cheatsheet](https://github.com/GV330/course_materials/blob/main/seminars/seminar1/gv330_git_github_handout.pdf)
+- [Pre-term survey](https://forms.gle/JFEu8AJF8XRBqTeP9)
+- [Presentation signups](https://docs.google.com/spreadsheets/d/1IQgqBunYjP7H0wXafgcufZE-Ti7M-SU63MCOwQ7EBoA/edit?usp=sharing)
 - [Presentation guidance](https://github.com/GV330/course_materials/blob/main/other/Presentation_Guidelines.pdf)
