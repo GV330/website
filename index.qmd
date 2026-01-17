@@ -16,7 +16,7 @@ Welcome to the course website for GV330: Data Science Applications to Politics R
 
 The Leganto reading list can be found [here](https://readings.lse.ac.uk/leganto/public/44LSE_INST/lists/11431308290002021?auth=SAML).
 
-The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=9820). Please consult Moodle for lecture recordings, and to submit any assignments (formative and summative). 
+The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=12381). Please consult Moodle for lecture recordings, and to submit any assignments (formative and summative). 
 
 **Office Hours:** Please sign up via studenthub.
 
