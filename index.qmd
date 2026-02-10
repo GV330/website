@@ -18,6 +18,8 @@ The Leganto reading list can be found [here](https://readings.lse.ac.uk/leganto/
 
 The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=12381). Please consult Moodle for lecture recordings, and to submit any assignments (formative and summative). 
 
+Formative assessment materials can be found [here](https://github.com/GV330/course_materials/tree/main/other/Formative_assessment_repo).
+
 **Office Hours:** Please sign up via studenthub.
 
 **Undergraduate Administration:** Office CBG 3.20. Opening Hours: 10:00-12:30 and 13:30-16:00. Email: [gov.ug@lse.ac.uk](mailto:gov.ug.lse.ac.uk)
