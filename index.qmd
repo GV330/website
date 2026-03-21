@@ -20,6 +20,8 @@ The Moodle page can be found [here](https://moodle.lse.ac.uk/course/view.php?id=
 
 Formative assessment materials can be found [here](https://github.com/GV330/course_materials/tree/main/other/Formative_assessment_repo).
 
+Summative assessment materials can be found [here](https://github.com/GV330/summative_assessment). Please upload your assessment to the Moodle by 5pm on Friday 8th May 2026.
+
 **Office Hours:** Please sign up via studenthub.
 
 **Undergraduate Administration:** Office CBG 3.20. Opening Hours: 10:00-12:30 and 13:30-16:00. Email: [gov.ug@lse.ac.uk](mailto:gov.ug.lse.ac.uk)
